@@ -1,0 +1,4 @@
+actor: FunctionTester
+modules:
+    enabled:
+        - \Helper\Function

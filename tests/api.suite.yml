@@ -1,0 +1,14 @@
+actor: ApiTester
+modules:
+    enabled:
+        - \Helper\Api
+        - REST:
+            url: http://jason.lumen.com/
+            depends: PhpBrowser
+            part: Json
+        - Db:
+            dsn: mysql:host=139.196.255.78;dbname=hale
+            user: root
+            password: nnQ^ntoYWM@B^#Li
+            dump: tests/_data/dump.sql
+       
