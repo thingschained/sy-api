@@ -38,7 +38,7 @@
 ## REST API
 API文档
 
-* [码云](https://gitee.com/thingschained/sy-api.wiki.git) 
+* [码云](https://gitee.com/thingschained/sy-api/wikis/api) 
 * [github](https://github.com/thingschained/sy-api/wiki/api)
 
 
